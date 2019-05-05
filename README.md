@@ -2,9 +2,7 @@
  
 
 this is a eval_board which allows you to explore  
-STM32F4 capabilities. 
-
-with these features:
+STM32F4 capabilities. with these features:
 
 GSM  (sim800c)
 
